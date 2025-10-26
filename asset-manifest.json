@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/College_Chatbot_/static/css/main.b06d5a83.css",
+    "main.js": "/College_Chatbot_/static/js/main.2be74076.js",
+    "static/js/453.d7446e4a.chunk.js": "/College_Chatbot_/static/js/453.d7446e4a.chunk.js",
+    "static/media/RAMA1.png": "/College_Chatbot_/static/media/RAMA1.a1513b8b5966b9967b11.png",
+    "static/media/RAma.jpeg": "/College_Chatbot_/static/media/RAma.6c307d19adb2d17ff4a9.jpeg",
+    "index.html": "/College_Chatbot_/index.html",
+    "main.b06d5a83.css.map": "/College_Chatbot_/static/css/main.b06d5a83.css.map",
+    "main.2be74076.js.map": "/College_Chatbot_/static/js/main.2be74076.js.map",
+    "453.d7446e4a.chunk.js.map": "/College_Chatbot_/static/js/453.d7446e4a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b06d5a83.css",
+    "static/js/main.2be74076.js"
+  ]
+}
